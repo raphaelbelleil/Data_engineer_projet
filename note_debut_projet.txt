@@ -1,0 +1,25 @@
+PROJET DATA ENGINEERING EN PYTHON
+
+ALIMENTATION D'UNE BASE DE DONNEES OPERATIONNELLE ORACLE
+ALIMENTATION D'UN DATAWAREHOUSE ORACLE
+
+travail sur vscode
+creation d'un depot git pour le projet
+
+ordonnancement avec airflow
+gestion par batch
+
+nettoyage des fichiers
+gestion des valeurs manquantes
+scan des fichiers
+creation de fonctions réutilisables
+insertion des données dans la base de données
+modification
+gestion des erreurs
+gestion des dépendances
+
+creation d'un rapport
+- nombre de lignes
+- nombre d'erreurs
+- temps pour chaque fichier
+- temps global
