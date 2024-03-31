@@ -23,3 +23,14 @@ creation d'un rapport
 - nombre d'erreurs
 - temps pour chaque fichier
 - temps global
+
+
+requirements.py
+pour indiquer toutes les dépendances
+
+dossier config dans .gitignore
+
+creer les tables
+
+faire l'alimentation 
+gerer erreurs, rejets, verification dependance
