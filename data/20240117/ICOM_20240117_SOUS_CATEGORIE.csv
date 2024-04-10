@@ -3,9 +3,9 @@ SC001|Téléphones|C001
 SC002|Chaises|C002
 SC003|Photocopieurs|C001
 SC004|Tables|C002
-SC005|Bibliothèques|C002
+SC005|Bibliothèque|C002
 SC006|Art|C003
-SC007|Équipements annexes|C003
+SC007|Équipements annexes|C00
 SC008|Stockage|C003
 SC009|Éléments de fixation|C003
 SC010|Machines|C001
@@ -16,3 +16,5 @@ SC014|Étiquettes|C003
 SC015|Papier|C003
 SC016|Fournitures|C003
 SC017|Enveloppes|C003
+SC001|Téléphones|C001
+SC001||
